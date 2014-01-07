@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleMoreArrayListPractice", "ConsoleMoreArrayListPractice\ConsoleMoreArrayListPractice.csproj", "{5BD51CF0-B6E5-4C29-BD45-B2BF85731221}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5BD51CF0-B6E5-4C29-BD45-B2BF85731221}.Debug|x86.ActiveCfg = Debug|x86
+		{5BD51CF0-B6E5-4C29-BD45-B2BF85731221}.Debug|x86.Build.0 = Debug|x86
+		{5BD51CF0-B6E5-4C29-BD45-B2BF85731221}.Release|x86.ActiveCfg = Release|x86
+		{5BD51CF0-B6E5-4C29-BD45-B2BF85731221}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
